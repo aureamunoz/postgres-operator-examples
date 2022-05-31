@@ -1,4 +1,4 @@
-namespace: postgres-operator
+namespace: todo-demo
 
 resources:
 - postgres.yaml

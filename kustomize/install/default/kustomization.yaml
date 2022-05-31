@@ -1,4 +1,4 @@
-namespace: postgres-operator
+namespace: todo-demo
 
 commonLabels:
   app.kubernetes.io/name: pgo
